@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves from Hull, Ireland, and Fraunce as first the manner of Sr. Iohn Hothams protection of Hvll, discovering a horrible plot conspired by one Becket a papist in Yorkshire, and one Fulches, to admit some Lords into Hull, May 24, 1642, 2 of Iune, with Fulkes his loyalty showne to the Perliament [sic] in not concealing the plot, but revealing it to Sr. Iohn Hotham : secondly a letter sent to Captaine White in London from Thomas Prideaux in Ireland, dated from Dublin the twentieth of May, 1642, concerning a proclamation lately proclaimed in Ireland : as also, 3., remarkable passages at the seige of Ayres, a city upon the border of Spain where for these hundred yeares, the king of Spaine hath held it by force from the king of Fraunc, but now recovered 1642 : vvith an order from the high court of Parliament, Io. Brow. cler. Per.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53140</idno>
+            <idno type="STC">Wing N969</idno>
+            <idno type="STC">ESTC R38072</idno>
+            <idno type="EEBO-CITATION">17165001</idno>
+            <idno type="OCLC">ocm 17165001</idno>
+            <idno type="VID">106100</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106100)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1620:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves from Hull, Ireland, and Fraunce as first the manner of Sr. Iohn Hothams protection of Hvll, discovering a horrible plot conspired by one Becket a papist in Yorkshire, and one Fulches, to admit some Lords into Hull, May 24, 1642, 2 of Iune, with Fulkes his loyalty showne to the Perliament [sic] in not concealing the plot, but revealing it to Sr. Iohn Hotham : secondly a letter sent to Captaine White in London from Thomas Prideaux in Ireland, dated from Dublin the twentieth of May, 1642, concerning a proclamation lately proclaimed in Ireland : as also, 3., remarkable passages at the seige of Ayres, a city upon the border of Spain where for these hundred yeares, the king of Spaine hath held it by force from the king of Fraunc, but now recovered 1642 : vvith an order from the high court of Parliament, Io. Brow. cler. Per.</title>
+                  <author>Prideaux, Thomas.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Baker,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term>Franco-Spanish War, 1635-1659.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106100:1" rendition="simple:additions"/>
+            <p>NEVVES <hi>From Hull, Ireland,</hi> and <hi>Fraunce, AS FIRST THE MANNER OF S<hi rend="sup">r</hi>. Iohn Hothams</hi> PROTECTION OF HVLL Diſcovering a horrible Plot conſpi<g ref="char:EOLhyphen"/>red by one <hi>Becket</hi> a Papiſt in <hi>Yorkſhire</hi> and one <hi>Fulckes</hi> to admit ſome Lords into <hi>Hull May</hi> 24. 1642. 2 of <hi>Iune</hi> With <hi>Fulkes</hi> his loyalty ſhowne to the Perliament in <hi>not concealing the plot, but revealing it to Sr. Iohn Hotham.</hi> Secondly a Letter ſent to Captaine <hi>White</hi> in <hi>London</hi> From <hi>Thomas Prideaux</hi> in <hi>Ireland</hi> dated from <hi>Dublin the twentieth of</hi> May, 1642. <hi>Concerning a Proclamation laely Proclaimed in Ireland.</hi> AS ALSO 3. Remarkable paſſages at the Seige of <hi>Ayres,</hi> a City upon the border of <hi>Spain</hi> where for theſe hundred yeares, The King of <hi>Spaine</hi> hath held it by force from the King of <hi>Fraunc but now recovered</hi> 1642. </p>
+            <p>
+               <hi>vvith an Order from the high Court of Parliament.</hi> Io. Brow. Cler. Per.</p>
+            <p>London Printed for <hi>Thomas Baker.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106100:2"/>
+            <head>SR. Iohn Hothams Protection OF HVLL In diſcovering a horrible Plot conſpired by one <hi>Becket</hi> a Papiſt in <hi>Yorkſhire,</hi> and one <hi>Folkes</hi> to admit his Maieſtie into <hi>Hull.</hi>
+            </head>
+            <p>THe 28 of <hi>May.</hi> The Houſe of Commons recei<g ref="char:EOLhyphen"/>ved letters vnexpectedly, from Sr. <hi>Iohn Hotham</hi> in full diſcovery of the conſpiracy at <hi>Hull,</hi> May 24. The effect of which letters were, that the ſaid <hi>Becket</hi> had conſpired with one <hi>Folkes</hi> his ſon in law and ſouldier of Sr. <hi>Iohns</hi> to betray the towne to him and his friends, by opening a gate at one end of the towne on his watch night and to cauſe a falſe a<g ref="char:EOLhyphen"/>larum to be beat at the other end whilſt they entered the town, for which he was to have 500 pound preſent<g ref="char:EOLhyphen"/>ly paid him. And 250 pound <hi>per annum,</hi> if he perfor<g ref="char:EOLhyphen"/>med it.</p>
+            <p>But the ſaid <hi>Faulkes</hi> made diſcovery of the Plot to Sr. <hi>Iohn Hotham,</hi> who concealing the ſame cauſed the ſaid <hi>Faulks</hi> to write a letter to the ſaid <hi>Becket,</hi> to informe him that he had contrived the plot accor<g ref="char:EOLhyphen"/>ding to his deſire, who returned Anſwer that he would not faile of his promiſe. Whereupon the ſaid <hi>Becket</hi> with a great company of caveleers gentlemen and ſom Lords in the company came to <hi>Hull</hi> at the time ap<g ref="char:EOLhyphen"/>pointed. And at their coming the ſaid Sr. <hi>Iohn Hoth<g ref="char:EOLhyphen"/>am</hi> appeared on the walls with his men,
+<pb facs="tcp:106100:2"/> compleatly armed, And told them their treachery was diſcovered but offered not the leaſt violence to them, And then they fled.</p>
+            <p>Vpon this letter there was a great debate and the Lawers delivered their oppinions concerning it, the effect whereof that for any to betray any of the Kings ſorts is treaſon by Law, whereupon it was ordered <hi>Bec<g ref="char:EOLhyphen"/>ket</hi> ſhould be forthwith ſent for to the Perliament. They alſo received letters from <hi>Beverly,</hi> that his Ma<g ref="char:EOLhyphen"/>ieſtie hath ſent to <hi>Sheifeild,</hi> for 4 peeces of ordinance upon which they ordered to ſend meſſengers to make ſtop thereof.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>A</hi> LETTER SENT TO CAPTAINE <hi>WHITE</hi> in <hi>London</hi> from Mr. <hi>Thomas Prideaux</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> dated from <hi>Dublin</hi> the 16 of <hi>May</hi> 1642. and received in <hi>London</hi> the 24. of <hi>May.</hi>
+                  </head>
+                  <p>WOrthy Sir I have ſent you here incloſed the Relation of the King of <hi>Fraunce,</hi> the Duke of <hi>Bulloign Don Lomboyle</hi> generall for <hi>Spain Mounſieur Shattello</hi> cheife generall for <hi>Fraunce,</hi> and Count <hi>Swaſham</hi> governour of <hi>Sedan</hi> worthy of obſer<g ref="char:EOLhyphen"/>vation which I deſire you to let my Coſen and friend Captaine <hi>Hill</hi> have a ſight thereof, It hath bin much reioyced at in thoſe parts of <hi>Ireland,</hi> and the rather in regard it hath bin a weakening to the King of <hi>Fraunce</hi> for he hath bin long looked for amongſt the Rebels in thoſe parts for a freſh ſupply of Ammunition and Armes
+<pb facs="tcp:106100:3"/> but now it is ſuppoſed he hath need of them neer<g ref="char:EOLhyphen"/>erer at home, I know you deſire to hear of the ſtate of this Kingdome. I will neither add nor diminiſh but in truth the Kingdom is overſpread with the Rebels, their is hardly any one part of this Kingdome ſecure, ſave only in the North towards <hi>Londonderry</hi> And if wee have not a new ſupply of men and Armes, this King<g ref="char:EOLhyphen"/>dom will be without all hopes of recovery or reducing the ſame to due obedience ct ſubiection to the Crown of <hi>England.</hi>
+                  </p>
+                  <p>Wee have long expected a ſupply from Scotland which is not yet come over as alſo from England God graunt them a ſudden and happy landing.</p>
+                  <p>I make no doubt but you have heared of the death of Sr. <hi>Charles Coote</hi> who was ſhot in the belly by one of his owne ſouldiers vnawares, his death was much lamented at in regard of his valour and, good ſervice he hath done in this King: dome of <hi>Ireland,</hi> I cannot for the preſent write you any ſtrangs newes more then you have all<g ref="char:EOLhyphen"/>redy heare of (only this) we heare that ſince the pro<g ref="char:EOLhyphen"/>clamation proclaymed in this Kingdome that every one that could bring in ſuch a Traytor dead or aliue ſhould have ſuch aportion of land or a ſufficint reward in mony, divers of the greater ſort of the Reblles haue ſent vnro the counſell of <hi>Ireland</hi> with a petition to be ſent to his Magieſty and Parliment in <hi>England</hi> that if that his Magieſty and Parliment will grant them a genrall pardon with a tolleration of their religion as in Queene <hi>Elizabeths</hi> dayes they woule ſubmit and
+<pb facs="tcp:106100:3"/> bring in many thouſand more with them.</p>
+                  <p>Thus far I have preſumed vpon your patienca in ex<g ref="char:EOLhyphen"/>poſing theiſe fewelynes to your viewe but hope they will not bee ſo thought of by your ſelfe as being but in diſcharg of that Ingagement which I have long time owed you but opportunity before not permiting me I thought it neceſſary to pay the ſame thought not in that manner I deſired.</p>
+                  <closer>
+                     <dateline>From <hi>Dublin</hi> 
+                        <date>the
+20 of <hi>May</hi> 1642</date>
+                     </dateline>
+                     <signed>Yours with reſpect <hi>Tho. Prideaux.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <div type="part">
+               <head>
+                  <hi>As Alſo</hi> Remarcable paſſages at the Seige of <hi>Ayres</hi> a City vp<g ref="char:EOLhyphen"/>on the border of Spayne where for this 100 yeares, <hi>the King of</hi> Spaine <hi>hath held</hi> it by force from the King of <hi>Fraunc but now recovered</hi>
+               </head>
+               <p>
+                  <hi>MOnnſiear Shattello</hi> cheife generall for the King of <hi>France</hi> having neere vpon 4 months beſieged the City of Ayres Don Lomboyle governour of the ſaid Citty, and cheife generall for the King of Spaynes Army which hee had to goe for <hi>Fraunce</hi> per<g ref="char:EOLhyphen"/>ceiving that hee could not keep it, which drew all his forces and marched towards <hi>Dunſleigh</hi> a Proteſtant towne in <hi>Fraunce</hi> by which meanes the <hi>French</hi> Army had quiet poſſeſſion after which <hi>Mounſieur Shattello</hi> underſtanding that <hi>Lomboyle</hi> was marched towards <hi>Dunſleigh
+<pb facs="tcp:106100:4"/> Shattello</hi> followed him verry cloſely, and in his March hee came to <hi>Sedan</hi> a town of the Duke of <hi>Bul<g ref="char:EOLhyphen"/>loignes,</hi> where he ſent and demanded of the Duke con<g ref="char:EOLhyphen"/>tribution for his Mr. the King of <hi>Fraunce.</hi> The Duke denying it, <hi>Shattello</hi> cauſed his Ordinance to bee plan<g ref="char:EOLhyphen"/>ted againſt the towne and battered the walls of the Towne, and ſlew therein almoſt 500<g ref="char:punc">▪</g> brave Cavillers, notwithſtanding the Duke reſiſted his entrance and ſlew a greater number of <hi>Shattello</hi> his Army, and for<g ref="char:EOLhyphen"/>ced him to raiſe his ſiege, the rather becauſe the Duke ioyned with <hi>Lomboyle</hi> his Army cheife generall for <hi>Spaine</hi> and entertayned all his Army to paſſe through his Country for his neereſt cut to <hi>Ayres,</hi> where both Armyes meeting being about
+50000 ſouldiers they went hand in hand to the City of <hi>Ayres,</hi> and comming almoſt within ſhot of the towne, <hi>Lomboyle</hi> ſent to <hi>Mounſieur Shattello</hi> to yeild with quietneſſe the City of <hi>Ayres</hi> being his Mr. the King of <hi>Spaines</hi> right and inheritance and in caſe hee ſhall leave the town quiet<g ref="char:EOLhyphen"/>ly, Then to have a convoy for his Carriages and no in<g ref="char:EOLhyphen"/>terruption of any perſon during their marching into <hi>Fraunce.</hi>
+               </p>
+               <p>Vpon which words <hi>Shattello</hi> was moved to wrath and ſent a challing, to <hi>Lomboyle</hi> and the Duke of <hi>Bull<g ref="char:EOLhyphen"/>oigne</hi> appointed a place of meeting where he would fight with both their Armyes.</p>
+               <p>After which <hi>Lomboyle</hi> by the aſſiſtance of the Duke of <hi>Bulloigne</hi> marched toward <hi>Shattello</hi> his Army and appointed a ſet battaill to be fought where for the ſpace of two dayes there was great ſlaughter on both
+<pb facs="tcp:106100:4"/> ſides and the Duke of Bulloigne and <hi>Lomboyle</hi> ſlew a<g ref="char:EOLhyphen"/>bove 2000 of <hi>Shattello</hi> his forces and tooke about 4000. priſoners and impriſonned them in <hi>Sedan</hi> a town alſo of the duke of <hi>Bulloignes,</hi> &amp; the duke made alſo Proclamation that all thoſe ſouldiers and priſon<g ref="char:EOLhyphen"/>ners that would ſerve either the Duke of <hi>Bulloigne</hi> or <hi>Lomboyle</hi> ſhould bee entertayned (if not) they ſhould every man pay for their ranſome three Months means and ſo to be ſent by <hi>Convoy</hi> to their quarters and Ran<g ref="char:EOLhyphen"/>devow.</p>
+               <p>Count <hi>Swaſham</hi> a valiant Commander and gover<g ref="char:EOLhyphen"/>nour of <hi>Sedan,</hi> came alſo with 10000 ſouldiers more to aſſiſt the Duke of <hi>Bulloigne</hi> and <hi>Lomboyle</hi> and in his paſſage towards <hi>Ayres</hi> hee met with <hi>Shattello</hi> his Ar<g ref="char:EOLhyphen"/>my, and both Armies meeting almoſt within pikes length one of the other, Count <hi>Swaſham</hi> his army was broken and ſeperated and put to flight and divers ſlain whereof the Count himſelfe was ſlaine, the reſt of his Army was in a trance and ran to their garriſon towns of <hi>Sedan.</hi>
+               </p>
+               <p>The King of <hi>Fraunc</hi> hearing of the ill ſucceſſe <hi>Moun<g ref="char:EOLunhyphen"/>ſieur Shattello</hi> cheife governour of his forces had with the Duke of <hi>Bulloigne,</hi> and <hi>Lomboyle</hi> raiſed a great Army the number of 50000 ſouldiers and threatned to be revenged of <hi>Bulloigne</hi> and <hi>Lomboyle</hi> where indeed he was for he burnt and ſpoiled many villages and ha<g ref="char:EOLhyphen"/>mlet townes. of the Duke, being moſt part thereof Proteſtants never theleſſ, the Duke at length obtay<g ref="char:EOLhyphen"/>ned the Conqueſt and forced the King to remove his ſeige and obtained his owne conditions that is to have
+<pb facs="tcp:106100:5"/> the ſume of 2500000. pounds of the ſpoile he had done him and his Country and an everlaſting place be<g ref="char:EOLunhyphen"/>twene them without paying any Contribution to the King of <hi>France</hi> hearafter which the King yelded ther<g ref="char:EOLhyphen"/>vnto.</p>
+               <p>Divers Princes Dukes Marquſſes and Counties ſome Proteſtants ſome Papiſts are at this preſent in Rebellion againſt there King the King of <hi>France.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Dii Martis 29 Maii 1642.</head>
+               <p>It is this day Ordered by the Lords and Commons in Perliament aſſembled, That the Magazines of the ſe<g ref="char:EOLhyphen"/>verall Counties in <hi>England</hi> and <hi>Wales,</hi> ſhall be forth<g ref="char:EOLhyphen"/>with put into the power of the Lords Livetennants of the ſaid Counties, reſpectively (being ſuch as the Parliament doth conſide in for the ſervice and ſafetie of his Maieſty and the Kingdom.</p>
+               <p>
+                  <hi>Ordered in Perliament, That this Order ſhall be prin<g ref="char:EOLhyphen"/>ted and publiſhed.</hi>
+               </p>
+               <closer>
+                  <signed>Ioh. Brown Clar. Perl.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:106100:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
